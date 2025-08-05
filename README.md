@@ -1,6 +1,6 @@
 # Hello All 👋 
 
-## My Name is ✨ Shereece Kamara, and I currently reside in Phoenix, AZ 🌵🌵✨ 
+## My Name is ✨ S. Kamara, and I currently reside in Phoenix, AZ 🌵🌵✨ 
 
 - 🔭 I’m currently working on ... learning to code with **Markdown** syntax using both _GitHub_ and _Udacity_ guidelines
 - - 😄 Pronouns: ... **_She/Her_**
